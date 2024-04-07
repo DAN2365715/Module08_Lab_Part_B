@@ -2,4 +2,6 @@
 
 I love Markdown.
 
-I am not being forced to say the above.
+~~I am not being forced to say the above.~~
+
+All hail Markdown. HMTL is inferior.
